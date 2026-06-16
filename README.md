@@ -308,8 +308,8 @@ Windows 电脑是主要适配目标。
 
 ## 13.参考
 项目部分参考借鉴以下仓库内容，在此感谢！
-https://github.com/zhjc1124/jlucon
-https://github.com/drcoms/drcom-generic
+- https://github.com/zhjc1124/jlucon
+- https://github.com/drcoms/drcom-generic
 
 # 注意
 特别指出禁止任何个人或者公司将 drcoms 的代码投入商业使用，由此造成的后果和法律责任均与本人无关。
